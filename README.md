@@ -1,38 +1,31 @@
 **Installation & Running Locally**
+Repo Link: https://github.com/riya26/PromptToWebsite-main
 
-Follow these steps to run the project on any device:
+To run the project locally on any device:
 
-Prerequisites
-Make sure you have the following installed:
+✅ Installation Steps:
 
-Node.js (v18 or higher recommended)
-npm or pnpm
-Git (optional, for cloning)
-**
-**Steps to Run the Project**
-**
-1. Clone the Repository
-2. git clone https://github.com/riya26/PromptToWebsite-main.git
-3. cd PromptToWebsite-main
-4. Or download the ZIP and extract it manually.
+-Clone the repository:
+-git clone https://github.com/riya26/PromptToWebsite-main.git
+-cd PromptToWebsite-main
+-Install dependencies:
+-npm install
+-Start the development server:
+-npm run dev
 
-5. Install Dependencies
-6.Using npm:
- on terminal run command:
- * npm install*
-  Or using pnpm:
 
-*pnpm install*
-7.Run the Development Server
-Using npm:
+⚠️ If something doesn’t work:
 
-8.npm run dev
-Or using pnpm:
+Ensure Node.js v18+ and npm are installed.
+Delete node_modules and package-lock.json, then reinstall:
+rm -rf node_modules package-lock.json
+npm install
+npm run dev
 
-9.pnpm dev
+If you're on Mac/Linux and get permission errors, try:
+sudo npm install
 
-Open in Browser
-Visit:
+**Open in Browser Visit:**
 
 http://localhost:3000
 
