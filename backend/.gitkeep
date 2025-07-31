@@ -1,0 +1,5 @@
+# Backend directory
+This directory will contain the Express.js API server that orchestrates:
+- Code generation via OpenAI API
+- GitHub repo creation and code push
+- Vercel deployment automation 
