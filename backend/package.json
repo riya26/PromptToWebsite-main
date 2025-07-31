@@ -8,7 +8,6 @@
   "license": "ISC",
   "scripts": {
     "start": "node index.js",
-    "build": "next build && next export",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
