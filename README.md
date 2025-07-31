@@ -2,6 +2,8 @@
 
 An AI-powered tool that generates and deploys websites from natural language prompts.
 
+✅ Update triggered on Vercel!
+
 ## 🎯 How it works:
 1. User describes their desired website in plain English
 2. AI generates React/Next.js code using OpenAI GPT-4
