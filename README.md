@@ -1,3 +1,44 @@
+**Installation & Running Locally**
+
+Follow these steps to run the project on any device:
+
+Prerequisites
+Make sure you have the following installed:
+
+Node.js (v18 or higher recommended)
+npm or pnpm
+Git (optional, for cloning)
+**
+**Steps to Run the Project**
+**
+1. Clone the Repository
+2. git clone https://github.com/riya26/PromptToWebsite-main.git
+3. cd PromptToWebsite-main
+4. Or download the ZIP and extract it manually.
+
+5. Install Dependencies
+6.Using npm:
+ on terminal run command:
+ * npm install*
+  Or using pnpm:
+
+*pnpm install*
+7.Run the Development Server
+Using npm:
+
+8.npm run dev
+Or using pnpm:
+
+9.pnpm dev
+
+Open in Browser
+Visit:
+
+http://localhost:3000
+
+server should run on http://localhost:5000
+
+
 # Prompt-to-Website Generator
 
 An AI-powered tool that generates and deploys websites from natural language prompts.
